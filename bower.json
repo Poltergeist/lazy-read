@@ -2,7 +2,7 @@
   "name": "lazy-read",
   "version": "0.0.0",
   "dependencies": {
-    
+    "fishbone.js": "~1.0.1"
   },
   "devDependencies": {}
 }
